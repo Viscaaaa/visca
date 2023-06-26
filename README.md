@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dreamphoenix
+- 👋 Hi, I’m VISCA
 - 👀 I’m interested in programing and artificial intelegent
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me at my ig doublevirgo__
